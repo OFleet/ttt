@@ -42,26 +42,26 @@
 		174DE31615ABDA2F00374FD8 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		174DE31815ABDA2F00374FD8 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		174DE31A15ABDA2F00374FD8 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		174DE31E15ABDA2F00374FD8 /* ttt-Info.plist */ = {isa = PBXFileReference; path = "ttt-Info.plist"; sourceTree = "<group>"; };
+		174DE31E15ABDA2F00374FD8 /* ttt-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ttt-Info.plist"; sourceTree = "<group>"; };
 		174DE32015ABDA2F00374FD8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		174DE32215ABDA2F00374FD8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		174DE32415ABDA2F00374FD8 /* ttt-Prefix.pch */ = {isa = PBXFileReference; path = "ttt-Prefix.pch"; sourceTree = "<group>"; };
-		174DE32515ABDA2F00374FD8 /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		174DE32415ABDA2F00374FD8 /* ttt-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ttt-Prefix.pch"; sourceTree = "<group>"; };
+		174DE32515ABDA2F00374FD8 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		174DE32615ABDA2F00374FD8 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		174DE32915ABDA2F00374FD8 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		174DE32B15ABDA2F00374FD8 /* FirstViewController.h */ = {isa = PBXFileReference; path = FirstViewController.h; sourceTree = "<group>"; };
+		174DE32B15ABDA2F00374FD8 /* FirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
 		174DE32C15ABDA2F00374FD8 /* FirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
 		174DE32E15ABDA2F00374FD8 /* first.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = first.png; sourceTree = "<group>"; };
 		174DE33015ABDA2F00374FD8 /* first@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "first@2x.png"; sourceTree = "<group>"; };
-		174DE33215ABDA2F00374FD8 /* SecondViewController.h */ = {isa = PBXFileReference; path = SecondViewController.h; sourceTree = "<group>"; };
+		174DE33215ABDA2F00374FD8 /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
 		174DE33315ABDA2F00374FD8 /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 		174DE33515ABDA2F00374FD8 /* second.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = second.png; sourceTree = "<group>"; };
 		174DE33715ABDA2F00374FD8 /* second@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "second@2x.png"; sourceTree = "<group>"; };
 		174DE33E15ABDA2F00374FD8 /* tttTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tttTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		174DE33F15ABDA2F00374FD8 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		174DE34715ABDA2F00374FD8 /* tttTests-Info.plist */ = {isa = PBXFileReference; path = "tttTests-Info.plist"; sourceTree = "<group>"; };
+		174DE34715ABDA2F00374FD8 /* tttTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "tttTests-Info.plist"; sourceTree = "<group>"; };
 		174DE34915ABDA2F00374FD8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		174DE34B15ABDA2F00374FD8 /* tttTests.h */ = {isa = PBXFileReference; path = tttTests.h; sourceTree = "<group>"; };
+		174DE34B15ABDA2F00374FD8 /* tttTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = tttTests.h; sourceTree = "<group>"; };
 		174DE34C15ABDA2F00374FD8 /* tttTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = tttTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -337,7 +337,8 @@
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
 				CLANG_ENABLE_OBJC_ARC = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Khaluito Vitaliy (6ANB5CSEHB)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Khaluito Vitaliy (6ANB5CSEHB)";
 				COPY_PHASE_STRIP = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -352,6 +353,8 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				PROVISIONING_PROFILE = "2669B368-B6E2-44B8-AAFE-61C681F65DCF";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "2669B368-B6E2-44B8-AAFE-61C681F65DCF";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = 2;
 			};
@@ -363,7 +366,8 @@
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
 				CLANG_ENABLE_OBJC_ARC = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Khaluito Vitaliy (6ANB5CSEHB)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Khaluito Vitaliy (6ANB5CSEHB)";
 				COPY_PHASE_STRIP = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
@@ -372,6 +376,8 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PROVISIONING_PROFILE = "2669B368-B6E2-44B8-AAFE-61C681F65DCF";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "2669B368-B6E2-44B8-AAFE-61C681F65DCF";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = 2;
 				VALIDATE_PRODUCT = YES;
@@ -381,10 +387,14 @@
 		174DE35115ABDA2F00374FD8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: Khaluito Vitaliy (6ANB5CSEHB)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Khaluito Vitaliy (6ANB5CSEHB)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ttt/ttt-Prefix.pch";
 				INFOPLIST_FILE = "ttt/ttt-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "2669B368-B6E2-44B8-AAFE-61C681F65DCF";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "2669B368-B6E2-44B8-AAFE-61C681F65DCF";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -392,10 +402,12 @@
 		174DE35215ABDA2F00374FD8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: Khaluito Vitaliy (6ANB5CSEHB)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ttt/ttt-Prefix.pch";
 				INFOPLIST_FILE = "ttt/ttt-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "2669B368-B6E2-44B8-AAFE-61C681F65DCF";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
